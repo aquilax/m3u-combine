@@ -4,5 +4,5 @@ Command line tool to combine multiple m3u playlists
 Usage:
 
 ```
-echo list-of-playlists.txt | m3u-combine > combined.m3u
+cat list-of-playlists.txt | m3u-combine > combined.m3u
 ```
