@@ -1,0 +1,4 @@
+github.com/aquilax/m3u v0.3.1 h1:d3CZFChSt0GEyQnTyYSYIZGwC9WSXaTqz3IWnleETIo=
+github.com/aquilax/m3u v0.3.1/go.mod h1:wIrj1rJMX9YLyZeFpWqVJtbGQ9ucu1/gu8f00/DtSxY=
+github.com/dimchansky/utfbom v1.1.0 h1:FcM3g+nofKgUteL8dm/UpdRXNC9KmADgTpLKsu0TRo4=
+github.com/dimchansky/utfbom v1.1.0/go.mod h1:rO41eb7gLfo8SF1jd9F8HplJm1Fewwi4mQvIirEdv+8=
